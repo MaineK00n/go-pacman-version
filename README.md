@@ -1,5 +1,5 @@
 # go-pacman-version
-![Test](https://github.com/MaineK00n/go-pacman-version/workflows/Test/badge.svg?branch=main)
+[![Test](https://github.com/MaineK00n/go-pacman-version/actions/workflows/test.yml/badge.svg)](https://github.com/MaineK00n/go-pacman-version/actions/workflows/test.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/MaineK00n/go-pacman-version)](https://goreportcard.com/report/github.com/MaineK00n/go-pacman-version)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/MaineK00n/go-pacman-version/blob/main/LICENSE)
 
