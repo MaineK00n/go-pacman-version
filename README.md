@@ -1,7 +1,7 @@
 # go-pacman-version
-![Test](https://github.com/MaineK00n/go-pacman-version/workflows/Test/badge.svg?branch=master)
+![Test](https://github.com/MaineK00n/go-pacman-version/workflows/Test/badge.svg?branch=main)
 [![Go Report Card](https://goreportcard.com/badge/github.com/MaineK00n/go-pacman-version)](https://goreportcard.com/report/github.com/MaineK00n/go-pacman-version)
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/MaineK00n/go-pacman-version/blob/master/LICENSE)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/MaineK00n/go-pacman-version/blob/main/LICENSE)
 
 A Go library for parsing pacman package versions
 
